@@ -7,7 +7,7 @@ WITH AllFriends AS (
     FROM RequestAccepted
 ),
 FriendCounts AS (
-    SELECT id, COUNT(*) AS num
+    SELECT id, COUNT(id) AS num
     FROM AllFriends
     GROUP BY id
 )

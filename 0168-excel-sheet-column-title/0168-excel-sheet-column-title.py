@@ -6,6 +6,6 @@ class Solution(object):
         """
         result = ""
         while columnNumber > 0:
-            columnNumber, remainder = divmod(columnNumber - 1, 26)
-            result = chr(65 + remainder) + result
+            columnNumber, remainder = divmod(columnNumber-1 , 26)
+            result = chr(65 + remainder)+result
         return result

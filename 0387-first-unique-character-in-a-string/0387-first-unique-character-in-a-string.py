@@ -4,15 +4,15 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        char_count = {}
-        for char in s:
-            if char in char_count:
-                char_count[char] += 1
+        d = {}
+        for i in s:
+            if i in d:
+                d[i] += 1
             else:
-                char_count[char] = 1
+                d[i] = 1
 
-        for i, char in enumerate(s):
-            if char_count[char] == 1:
-                return i
+        for i in s:
+            if d[i]==1:
+                return s.index(i)
 
         return -1

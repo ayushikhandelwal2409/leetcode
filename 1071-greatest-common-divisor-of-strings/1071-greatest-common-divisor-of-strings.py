@@ -1,6 +1,5 @@
 class Solution:
     import math
-
     def gcdOfStrings(self,str1: str, str2: str) -> str:
         def gcd(a: int, b: int) -> int:
             while b:

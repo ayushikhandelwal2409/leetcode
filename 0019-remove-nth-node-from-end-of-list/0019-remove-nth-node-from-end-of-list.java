@@ -20,11 +20,18 @@ class Solution {
         }
             
         int k=c-n;
+        int o=0;
         cur=dummy;
-        for (int i = 0; i < k; i++) {
-            cur = cur.next;
+        while(cur.next!=null){
+            if (o==k){
+                cur.next=cur.next.next;
+            }
+            else{
+                cur=cur.next;                
+            }
+            o++;
+            
         }
-        cur.next = cur.next.next;
         return dummy.next;
     }
 }

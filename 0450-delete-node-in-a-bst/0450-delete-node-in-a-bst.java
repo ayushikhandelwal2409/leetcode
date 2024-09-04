@@ -28,17 +28,16 @@ class Solution {
             } else if (root.right == null) {
                 return root.left;
             }
-            root.val = minValue(root.right);
+            root.val = minValue(root.right).val;
             root.right = deleteNode(root.right, root.val);
         }
         return root;
     }
 
-    private int minValue(TreeNode node) {
-        int minv = node.val;
-        while (node.left != null) {
-            minv = node.left.val;
-            node = node.left;
+    public TreeNode minValue(TreeNode node) {
+        TreeNode minv = node;
+        while (minv.left != null) {
+            minv = minv.left;
         }
         return minv;
     }

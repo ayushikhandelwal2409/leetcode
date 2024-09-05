@@ -25,7 +25,6 @@ class Solution {
             return;
         } 
         inOrderTraversal(root.left,low,high);
-        //System.out.print(node.data + ", ");
         if (root.val>=low && root.val<=high){
             sum+=root.val;
         }

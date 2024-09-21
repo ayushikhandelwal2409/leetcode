@@ -2,43 +2,26 @@ import java.util.*;
 
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        int k = nums.length / 3;
-        int val1 = nums[0], val2 = nums[0];
-        int in1 = 1, in2 = 0;
-        ArrayList<Integer> list = new ArrayList<>();
+        Map<Integer, Integer> countMap = new HashMap<>();
+        List<Integer> result = new ArrayList<>();
 
-        for (int i = 1; i < nums.length; i++) {
-            if (nums[i] == val1) {
-                in1++;
-            } else if (nums[i] == val2) {
-                in2++;
-            } else if (in1 == 0) {
-                val1 = nums[i];
-                in1 = 1;
-            } else if (in2 == 0) {
-                val2 = nums[i];
-                in2 = 1;
-            } else {
-                in1--;
-                in2--;
-            }
-        }
-
-        int count1 = 0, count2 = 0;
+        // Count the occurrences of each element
         for (int num : nums) {
-            if (num == val1) {
-                count1++;
-            } else if (num == val2) {
-                count2++;
+            if (countMap.containsKey(num)) {
+                countMap.put(num, countMap.get(num) + 1);
+            } else {
+                countMap.put(num, 1);
             }
         }
 
-        if (count1 > k) {
-            list.add(val1);
+        // Find the elements that occur more than n/3 times
+        int threshold = nums.length / 3;
+        for (Map.Entry<Integer, Integer> entry : countMap.entrySet()) {
+            if (entry.getValue() > threshold) {
+                result.add(entry.getKey());
+            }
         }
-        if (count2 > k) {
-            list.add(val2);
-        }
-        return list;
+
+        return result;
     }
 }

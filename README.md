@@ -6,6 +6,7 @@ this is my first repository.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
@@ -73,4 +74,12 @@ this is my first repository.
 |  |
 | ------- |
 | [1155-product-sales-analysis-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1155-product-sales-analysis-iii) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

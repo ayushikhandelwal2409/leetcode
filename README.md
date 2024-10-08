@@ -64,6 +64,7 @@ this is my first repository.
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0065-valid-number) |
 | [0459-repeated-substring-pattern](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## String Matching
 |  |

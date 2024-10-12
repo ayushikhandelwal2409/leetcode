@@ -12,6 +12,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -26,6 +27,7 @@ this is my first repository.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0229-majority-element-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -37,6 +39,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0053-maximum-subarray) |

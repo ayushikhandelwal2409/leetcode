@@ -43,6 +43,7 @@ this is my first repository.
 | [0027-remove-element](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -62,6 +63,7 @@ this is my first repository.
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Heap (Priority Queue)
@@ -110,4 +112,8 @@ this is my first repository.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

@@ -26,6 +26,7 @@ this is my first repository.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +58,7 @@ this is my first repository.
 | [0229-majority-element-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Hash Table
 |  |
@@ -94,6 +96,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -133,4 +136,12 @@ this is my first repository.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0054-spiral-matrix) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->

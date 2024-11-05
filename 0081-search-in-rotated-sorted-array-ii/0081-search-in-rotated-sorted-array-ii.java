@@ -16,7 +16,7 @@ class Solution {
         }
         int s=0;
         int e=list.size() - 1;
-        System.out.println(list);
+       // System.out.println(list);
         while(s<=e){
             int mid=s+(e-s)/2;
             if(list.get(mid)>target) e=mid-1;

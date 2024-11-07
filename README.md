@@ -116,6 +116,7 @@ this is my first repository.
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0029-divide-two-integers) |
+| [0258-add-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -142,6 +143,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0258-add-digits) |
 ## Queue
 |  |
 | ------- |
@@ -154,4 +156,8 @@ this is my first repository.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0029-divide-two-integers) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

@@ -27,11 +27,8 @@ class Solution {
             current.next = second; // Link current node to the second node
             second.next = first; // Link second node to the first node
 
-            // Move the current pointer to the next pair
-            current = first; // Now, current is pointing to the first node of the next pair
+            current = first;
         }
-
-        // Return the new head, which is next to the dummy node
         return dummy.next;
     }
 }

@@ -20,6 +20,7 @@ this is my first repository.
 | [0075-sort-colors](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Divide and Conquer
 |  |
@@ -101,6 +102,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0065-valid-number) |
+| [0151-reverse-words-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3451-string-compression-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3451-string-compression-iii) |

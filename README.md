@@ -140,12 +140,14 @@ this is my first repository.
 | [0013-roman-to-integer](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0050-powx-n) |
 ## Tree
 |  |
 | ------- |

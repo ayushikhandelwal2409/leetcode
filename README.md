@@ -12,6 +12,7 @@ this is my first repository.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0018-4sum) |
@@ -108,6 +109,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0013-roman-to-integer) |
 | [0065-valid-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -121,6 +123,7 @@ this is my first repository.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0053-maximum-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy

@@ -68,6 +68,7 @@ this is my first repository.
 | [0134-gas-station](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -97,6 +98,7 @@ this is my first repository.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -208,10 +210,12 @@ this is my first repository.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->

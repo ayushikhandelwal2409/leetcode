@@ -58,6 +58,7 @@ this is my first repository.
 | [0027-remove-element](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0054-spiral-matrix) |
@@ -96,6 +97,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |

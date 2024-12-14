@@ -141,6 +141,7 @@ this is my first repository.
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0182-duplicate-emails) |
 | [0619-biggest-single-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0619-biggest-single-number) |
 | [1155-product-sales-analysis-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1155-product-sales-analysis-iii) |
 ## Math

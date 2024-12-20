@@ -142,6 +142,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0182-duplicate-emails) |
+| [0184-department-highest-salary](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0184-department-highest-salary) |
 | [0619-biggest-single-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0619-biggest-single-number) |
 | [1155-product-sales-analysis-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1155-product-sales-analysis-iii) |
 ## Math

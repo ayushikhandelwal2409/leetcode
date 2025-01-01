@@ -153,6 +153,7 @@ this is my first repository.
 | [0182-duplicate-emails](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0185-department-top-three-salaries) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0619-biggest-single-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0619-biggest-single-number) |
 | [1155-product-sales-analysis-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1155-product-sales-analysis-iii) |
 ## Math

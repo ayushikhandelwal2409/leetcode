@@ -83,6 +83,7 @@ this is my first repository.
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0575-distribute-candies) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0948-sort-an-array) |
@@ -100,6 +101,7 @@ this is my first repository.
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0575-distribute-candies) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Counting
 |  |

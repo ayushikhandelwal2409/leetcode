@@ -192,6 +192,7 @@ this is my first repository.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -202,6 +203,7 @@ this is my first repository.
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -264,5 +266,10 @@ this is my first repository.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

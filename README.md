@@ -89,6 +89,7 @@ this is my first repository.
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0575-distribute-candies) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0713-subarray-product-less-than-k) |

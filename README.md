@@ -146,6 +146,7 @@ this is my first repository.
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0409-longest-palindrome) |
@@ -161,6 +162,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0053-maximum-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
@@ -295,4 +297,8 @@ this is my first repository.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

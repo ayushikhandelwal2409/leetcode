@@ -294,6 +294,7 @@ this is my first repository.
 | [0100-same-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Memoization
 |  |
@@ -304,4 +305,8 @@ this is my first repository.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0022-generate-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

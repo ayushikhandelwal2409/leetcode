@@ -110,6 +110,7 @@ this is my first repository.
 | [0219-contains-duplicate-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -119,6 +120,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0383-ransom-note) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Binary Search
 |  |
@@ -151,6 +153,7 @@ this is my first repository.
 | [0022-generate-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0459-repeated-substring-pattern) |

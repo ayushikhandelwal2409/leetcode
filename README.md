@@ -164,6 +164,7 @@ this is my first repository.
 | [0443-string-compression](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0520-detect-capital) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3451-string-compression-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3451-string-compression-iii) |
 ## String Matching
@@ -326,4 +327,8 @@ this is my first repository.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Stack
+|  |
+| ------- |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->

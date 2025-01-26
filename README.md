@@ -141,6 +141,7 @@ this is my first repository.
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -210,6 +211,7 @@ this is my first repository.
 | [0050-powx-n](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |

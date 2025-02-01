@@ -29,6 +29,7 @@ this is my first repository.
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
 ## Divide and Conquer
@@ -124,6 +125,7 @@ this is my first repository.
 | [0560-subarray-sum-equals-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0575-distribute-candies) |
+| [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0807-custom-sort-string) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Counting
@@ -178,6 +180,7 @@ this is my first repository.
 | [0459-repeated-substring-pattern](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0807-custom-sort-string) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -202,6 +205,7 @@ this is my first repository.
 | [0011-container-with-most-water](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0409-longest-palindrome) |
+| [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
 ## Database
 |  |
 | ------- |

@@ -31,6 +31,7 @@ this is my first repository.
 | [0567-permutation-in-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0875-longest-mountain-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
 ## Divide and Conquer
 |  |
@@ -101,6 +102,7 @@ this is my first repository.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0875-longest-mountain-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0948-sort-an-array) |
@@ -197,6 +199,7 @@ this is my first repository.
 | [0053-maximum-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0875-longest-mountain-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
@@ -355,4 +358,8 @@ this is my first repository.
 |  |
 | ------- |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->

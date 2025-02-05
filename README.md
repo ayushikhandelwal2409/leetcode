@@ -130,6 +130,7 @@ this is my first repository.
 | [0575-distribute-candies](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0575-distribute-candies) |
 | [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0807-custom-sort-string) |
+| [1238-alphabet-board-path](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1238-alphabet-board-path) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Counting
 |  |
@@ -187,6 +188,7 @@ this is my first repository.
 | [0807-custom-sort-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0807-custom-sort-string) |
 | [0878-shifting-letters](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0878-shifting-letters) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1238-alphabet-board-path](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1238-alphabet-board-path) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3451-string-compression-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3451-string-compression-iii) |
 ## String Matching

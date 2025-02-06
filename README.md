@@ -79,6 +79,7 @@ this is my first repository.
 | [0054-spiral-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -291,6 +292,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Number Theory
 |  |
@@ -350,6 +352,7 @@ this is my first repository.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Trie
 |  |

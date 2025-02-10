@@ -243,6 +243,7 @@ this is my first repository.
 | [0050-powx-n](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
@@ -252,6 +253,7 @@ this is my first repository.
 | [0002-add-two-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |

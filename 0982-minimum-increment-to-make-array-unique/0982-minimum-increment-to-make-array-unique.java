@@ -11,3 +11,17 @@ class Solution {
         return c;
     }
 }
+// class Solution {
+//     public int minIncrementForUnique(int[] nums) {
+//         HashSet<Integer> set=new HashSet<>();
+//         int c=0;
+//         for(int i=0;i<nums.length;i++){
+//             while(set.contains(nums[i])){
+//                 nums[i]+=1;
+//                 c++;
+//             }
+//             set.add(nums[i]);
+//         }
+//         return c;
+//     }
+// }

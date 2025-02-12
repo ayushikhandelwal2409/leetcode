@@ -59,6 +59,7 @@ this is my first repository.
 | [0807-custom-sort-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0807-custom-sort-string) |
 | [0853-most-profit-assigning-work](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0948-sort-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0948-sort-an-array) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Merge Sort
 |  |
 | ------- |
@@ -115,6 +116,7 @@ this is my first repository.
 | [0907-koko-eating-bananas](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
@@ -144,6 +146,7 @@ this is my first repository.
 | ------- |
 | [0229-majority-element-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0383-ransom-note) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Binary Search
 |  |
@@ -223,6 +226,7 @@ this is my first repository.
 | [0409-longest-palindrome](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
 | [0853-most-profit-assigning-work](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0853-most-profit-assigning-work) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Database
 |  |
 | ------- |

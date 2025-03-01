@@ -194,6 +194,7 @@ this is my first repository.
 | [0065-valid-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0065-valid-number) |
 | [0131-palindrome-partitioning](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0434-number-of-segments-in-a-string) |
@@ -277,6 +278,7 @@ this is my first repository.
 | [0113-path-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -294,6 +296,7 @@ this is my first repository.
 | [0113-path-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Matrix
 |  |
@@ -373,6 +376,7 @@ this is my first repository.
 | [0112-path-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Memoization
@@ -393,6 +397,7 @@ this is my first repository.
 | [0113-path-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |

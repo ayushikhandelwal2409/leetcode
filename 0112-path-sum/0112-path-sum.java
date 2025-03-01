@@ -27,7 +27,7 @@ class Solution {
 
         if (node.left == null && node.right == null  && sum==targetSum) {
            check=true ;
-           return; // Add the current number to the total sum
+           //return; // Add the current number to the total sum
         } else {
             dfs(node.left, sum,targetSum);
             dfs(node.right, sum,targetSum);

@@ -107,6 +107,7 @@ this is my first repository.
 | [0485-max-consecutive-ones](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0792-binary-search) |
@@ -313,6 +314,7 @@ this is my first repository.
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0682-baseball-game) |
 ## Queue
 |  |
 | ------- |
@@ -412,6 +414,7 @@ this is my first repository.
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0682-baseball-game) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Enumeration

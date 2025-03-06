@@ -11,11 +11,11 @@ class Solution {
                     arr[j]++;
                 }
             }
-            ans=Math.max(ans,histogram(arr));
+            ans=Math.max(ans,largest_histogram(arr));
         }
         return ans;
     }
-    public static int histogram(int[] arr){
+    public static int largest_histogram(int[] arr){
         Stack<Integer> st=new Stack<>();
         int ans=0;
         for(int i=0;i<arr.length;i++) {

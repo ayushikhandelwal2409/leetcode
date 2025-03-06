@@ -88,6 +88,7 @@ this is my first repository.
 | [0078-subsets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0134-gas-station) |
@@ -414,6 +415,7 @@ this is my first repository.
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0682-baseball-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0682-baseball-game) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -421,4 +423,8 @@ this is my first repository.
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0875-longest-mountain-in-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

@@ -108,6 +108,7 @@ this is my first repository.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0565-array-nesting](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0565-array-nesting) |
 | [0575-distribute-candies](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -387,6 +388,7 @@ this is my first repository.
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0565-array-nesting](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0565-array-nesting) |
 ## Memoization
 |  |
 | ------- |

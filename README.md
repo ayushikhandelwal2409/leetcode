@@ -11,6 +11,7 @@ this is my first repository.
 | [0141-linked-list-cycle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ this is my first repository.
 | [0142-linked-list-cycle-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0443-string-compression) |
@@ -146,6 +148,7 @@ this is my first repository.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0229-majority-element-ii) |

@@ -5,10 +5,7 @@ class Solution {
         int n1=0;
         int n2=0;
         for(int i=0;i<tokens.length;i++){
-            if(isNumber(tokens[i])){
-                st.push(Integer.valueOf(tokens[i]));
-            }
-            else if(tokens[i].equals("+")){
+            if(tokens[i].equals("+")){
                 n1=st.pop();
                 n2=st.pop();
                 st.push(n1+n2);
@@ -28,16 +25,10 @@ class Solution {
                 n2=st.pop();
                 st.push(n2/n1);
             }
+            else{
+                st.push(Integer.valueOf(tokens[i]));
+            }
         }
         return st.peek();
-    }
-    private boolean isNumber(String token) {
-        // Check if the token is a valid integer
-        try {
-            Integer.parseInt(token);
-            return true;
-        } catch (NumberFormatException e) {
-            return false;
-        }
     }
 }

@@ -15,18 +15,6 @@ class Solution {
             count+=map.getOrDefault(r,0);
             map.put(r,map.getOrDefault(r,0) + 1);
         }
-        // int s=0;
-        // int e=0;
-        // while(s<=e && e<n){
-        //     if((arr[s])%k==0){
-        //         count++;
-        //     }
-        //     else{
-        //         s++;
-        //     }
-        //     e++;
-        // }
-        //System.out.println(Arrays.toString(arr));
         return count;
     }
 }

@@ -304,6 +304,7 @@ this is my first repository.
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0619-biggest-single-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0619-biggest-single-number) |
 | [1155-product-sales-analysis-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1155-product-sales-analysis-iii) |
+| [1182-game-play-analysis-iv](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1670-patients-with-a-condition](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1670-patients-with-a-condition) |
 ## Math
 |  |

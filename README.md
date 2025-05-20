@@ -161,6 +161,7 @@ this is my first repository.
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2751-sliding-subarray-beauty](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [3430-count-days-without-meetings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3639-zero-array-transformation-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
@@ -441,6 +442,7 @@ this is my first repository.
 | [0878-shifting-letters](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0878-shifting-letters) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [3639-zero-array-transformation-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Breadth-First Search
 |  |
 | ------- |

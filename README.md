@@ -354,6 +354,7 @@ this is my first repository.
 | [0173-binary-search-tree-iterator](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -384,6 +385,7 @@ this is my first repository.
 | [0173-binary-search-tree-iterator](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -481,6 +483,7 @@ this is my first repository.
 | [0113-path-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0404-sum-of-left-leaves) |

@@ -14,23 +14,19 @@
  * }
  */
 class Solution {
-    private boolean check=false;
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        dfs(root,0,targetSum);
-        return check;
+        return dfs(root,0,targetSum);
+        
     }
-    public void dfs(TreeNode node, int sum,int targetSum) {
+    public boolean dfs(TreeNode node, int sum,int targetSum) {
         if (node == null) {
-            return;
+            return false;
         }
         sum +=  node.val;
 
         if (node.left == null && node.right == null  && sum==targetSum) {
-           check=true ;
-           //return; // Add the current number to the total sum
-        } else {
-            dfs(node.left, sum,targetSum);
-            dfs(node.right, sum,targetSum);
+            return true;
         }
+        return dfs(node.left, sum, targetSum) || dfs(node.right,sum, targetSum);
     }
 }    

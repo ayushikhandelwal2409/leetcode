@@ -256,6 +256,7 @@ this is my first repository.
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0383-ransom-note) |
+| [0402-remove-k-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0434-number-of-segments-in-a-string) |
@@ -293,6 +294,7 @@ this is my first repository.
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0409-longest-palindrome) |
 | [0611-valid-triangle-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
@@ -526,6 +528,7 @@ this is my first repository.
 | [0085-maximal-rectangle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0402-remove-k-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0402-remove-k-digits) |
 | [0654-maximum-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0682-baseball-game) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -539,6 +542,7 @@ this is my first repository.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0402-remove-k-digits) |
 | [0654-maximum-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0654-maximum-binary-tree) |
 ## Design
 |  |

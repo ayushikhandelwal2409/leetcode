@@ -37,7 +37,7 @@ class Solution {
             j++;
         }
         if(n%2==0)
-            return Double.valueOf(ind1el+ind2el)/2.0;
+            return Double.valueOf(ind1el+ind2el)/2;
         else
             return ind2el;
     }

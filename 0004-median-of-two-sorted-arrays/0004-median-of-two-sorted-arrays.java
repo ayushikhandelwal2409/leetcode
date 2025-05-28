@@ -39,6 +39,6 @@ class Solution {
         if(n%2==0)
             return Double.valueOf(ind1el+ind2el)/2;
         else
-            return ind2el;
+            return Double.valueOf(ind2el);
     }
 }

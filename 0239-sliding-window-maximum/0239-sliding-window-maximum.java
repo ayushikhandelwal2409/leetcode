@@ -34,11 +34,11 @@ class Solution {
                     max=nums[end];
                     ind=end;
                 }
-                else if(nums[i]>=max-1)
-                {
-                    max=nums[i];
-                    ind=i;
-                }
+                // else if(nums[i]>=max-1)
+                // {
+                //     max=nums[i];
+                //     ind=i;
+                // }
                 else
                 {
                     max=Integer.MIN_VALUE;

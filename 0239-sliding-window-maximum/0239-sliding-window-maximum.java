@@ -5,16 +5,54 @@ class Solution {
         if(k==1){
             return nums;
         }
-        Deque<Integer> q=new LinkedList<>();
-        for(int i=0;i<l;i++){
-            if(!q.isEmpty() && q.peek()<i-k+1){
-                q.poll();
+        int max=Integer.MIN_VALUE;
+        int ind=0;
+        for(int i=0;i<k;i++){
+            int n=nums[i];
+            if(n>=max){
+                ind =i;
+                max=n;
             }
-            while(!q.isEmpty()&& nums[i]>nums[q.peekLast()]){
-                q.pollLast();
+        }
+        ans[0]=max;
+        int end=0;
+        for(int i=1;i<ans.length;i++)
+        {
+            end=i+k-1;
+            if(i<=ind)
+            {
+                if(nums[end]>=max)
+                {
+                    max=nums[end];
+                    ind=end;
+                }
             }
-            q.offer(i);
-            if(i>=k-1) ans[i-k+1]=nums[q.peek()];
+            else
+            {
+                if(nums[end]>=max-1)
+                {
+                    max=nums[end];
+                    ind=end;
+                }
+                else if(nums[i]>=max-1)
+                {
+                    max=nums[i];
+                    ind=i;
+                }
+                else
+                {
+                    max=Integer.MIN_VALUE;
+                    for(int j=i;j<end+1;j++)
+                    {
+                        if(nums[j]>=max)
+                        {
+                            max=nums[j];
+                            ind=j;
+                        }
+                    }
+                }
+            }
+            ans[i]=max;
         }
         return ans;
     }

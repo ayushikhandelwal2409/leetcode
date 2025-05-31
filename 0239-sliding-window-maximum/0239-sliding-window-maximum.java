@@ -42,7 +42,7 @@ class Solution {
                 else
                 {
                     max=Integer.MIN_VALUE;
-                    for(int j=i;j<end+1;j++)
+                    for(int j=i;j<=end;j++)
                     {
                         if(nums[j]>=max)
                         {

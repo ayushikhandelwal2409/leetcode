@@ -70,6 +70,7 @@ this is my first repository.
 | [0015-3sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0148-sort-list) |
@@ -109,6 +110,7 @@ this is my first repository.
 | [0039-combination-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0051-n-queens) |
@@ -517,6 +519,7 @@ this is my first repository.
 | [0039-combination-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0078-subsets) |

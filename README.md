@@ -268,6 +268,7 @@ this is my first repository.
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -353,6 +354,7 @@ this is my first repository.
 | [0025-reverse-nodes-in-k-group](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
@@ -549,6 +551,7 @@ this is my first repository.
 | [0085-maximal-rectangle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0394-decode-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0402-remove-k-digits) |
 | [0654-maximum-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0682-baseball-game) |

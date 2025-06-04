@@ -495,6 +495,7 @@ this is my first repository.
 | [0112-path-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0547-number-of-provinces) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -514,6 +515,7 @@ this is my first repository.
 | [0404-sum-of-left-leaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0547-number-of-provinces) |
 | [0565-array-nesting](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0565-array-nesting) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Memoization
@@ -586,4 +588,12 @@ this is my first repository.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

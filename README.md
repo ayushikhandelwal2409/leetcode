@@ -134,6 +134,7 @@ this is my first repository.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0217-contains-duplicate) |
@@ -422,6 +423,7 @@ this is my first repository.
 | [0073-set-matrix-zeroes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
 ## Simulation
@@ -493,6 +495,7 @@ this is my first repository.
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0547-number-of-provinces) |
@@ -508,6 +511,7 @@ this is my first repository.
 | [0112-path-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
@@ -591,6 +595,7 @@ this is my first repository.
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |

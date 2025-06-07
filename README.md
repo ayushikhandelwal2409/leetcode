@@ -147,6 +147,7 @@ this is my first repository.
 | [0414-third-maximum-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0565-array-nesting) |
 | [0575-distribute-candies](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0575-distribute-candies) |
@@ -310,6 +311,7 @@ this is my first repository.
 | [0070-climbing-stairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0542-01-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0542-01-matrix) |
 | [0875-longest-mountain-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
@@ -429,6 +431,7 @@ this is my first repository.
 | [0085-maximal-rectangle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1036-rotting-oranges) |
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
@@ -504,6 +507,7 @@ this is my first repository.
 | [0200-number-of-islands](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1036-rotting-oranges) |

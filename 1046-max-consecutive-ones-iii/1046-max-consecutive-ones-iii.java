@@ -15,8 +15,8 @@ class Solution {
                 }
                 start++;
             }
+            max=Math.max(max,i-start+1);
             i++;
-            max=Math.max(max,i-start);
         }
         return max;
     }

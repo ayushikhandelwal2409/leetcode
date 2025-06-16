@@ -179,6 +179,7 @@ this is my first repository.
 | [1046-max-consecutive-ones-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -222,6 +223,7 @@ this is my first repository.
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1039-find-the-town-judge) |
 | [1238-alphabet-board-path](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1238-alphabet-board-path) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1500-count-largest-group) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -370,6 +372,7 @@ this is my first repository.
 | [0367-valid-perfect-square](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1500-count-largest-group) |
 ## Recursion
 |  |
@@ -504,6 +507,7 @@ this is my first repository.
 | [0940-fruit-into-baskets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2751-sliding-subarray-beauty](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2751-sliding-subarray-beauty) |
@@ -518,6 +522,7 @@ this is my first repository.
 | [0966-binary-subarrays-with-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3639-zero-array-transformation-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3639-zero-array-transformation-i) |

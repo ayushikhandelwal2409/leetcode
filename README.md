@@ -342,6 +342,7 @@ this is my first repository.
 | [0875-longest-mountain-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
 | ------- |
@@ -679,14 +680,17 @@ this is my first repository.
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1039-find-the-town-judge) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->

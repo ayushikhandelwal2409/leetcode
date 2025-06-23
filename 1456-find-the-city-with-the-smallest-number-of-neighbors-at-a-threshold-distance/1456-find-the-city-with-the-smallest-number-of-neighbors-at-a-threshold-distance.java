@@ -26,7 +26,7 @@ class Solution {
             }
         }
 
-        int maxcnt=n;
+        int maxcnt= Integer.MAX_VALUE;
         int cityNo=-1;
         for(int city=0;city<n;city++){
             int cnt=0;

@@ -54,6 +54,7 @@ this is my first repository.
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -196,6 +197,7 @@ this is my first repository.
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3639-zero-array-transformation-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Hash Table
 |  |
 | ------- |

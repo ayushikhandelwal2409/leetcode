@@ -1,7 +1,5 @@
 class Solution {
     public int[] occurrencesOfElement(int[] nums, int[] queries, int x) {
-        int n=queries.length;
-        int[] ans=new int[n];
         HashMap<Integer,Integer> map=new HashMap<>();
         int c=1;
         for(int i=0;i<nums.length;i++){
@@ -10,16 +8,14 @@ class Solution {
                 c++;
             }
         }
-        int j=0;
-        for(int i:queries){
-            if(map.containsKey(i)){
-                ans[j]=map.get(i);
+        for(int i=0;i<queries.length;i++) 
+        {
+            if(queries[i] <= map.size())
+            {
+                queries[i] = map.get(queries[i]);
             }
-            else{
-                ans[j]=-1;
-            }
-            j++;
+            else queries[i] = -1;
         }
-        return ans;
+        return queries;
     }
 }

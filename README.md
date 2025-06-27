@@ -248,6 +248,7 @@ this is my first repository.
 | [1034-subarrays-with-k-different-integers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Binary Search
 |  |
 | ------- |
@@ -327,6 +328,7 @@ this is my first repository.
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3451-string-compression-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3451-string-compression-iii) |
 ## String Matching
@@ -361,6 +363,7 @@ this is my first repository.
 | [0853-most-profit-assigning-work](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Database
 |  |
@@ -630,6 +633,7 @@ this is my first repository.
 | [0131-palindrome-partitioning](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Trie
 |  |
@@ -661,6 +665,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0875-longest-mountain-in-array) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Monotonic Stack
 |  |
 | ------- |

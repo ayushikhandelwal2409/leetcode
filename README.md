@@ -573,6 +573,7 @@ this is my first repository.
 | [0207-course-schedule](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0542-01-matrix) |
@@ -603,6 +604,7 @@ this is my first repository.
 | [0226-invert-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -701,6 +703,7 @@ this is my first repository.
 | ------- |
 | [0207-course-schedule](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -713,6 +716,7 @@ this is my first repository.
 | ------- |
 | [0207-course-schedule](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path

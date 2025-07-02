@@ -10,5 +10,11 @@ class Solution {
             b=c;
         }
         return c;
+        // return check(n,0);
     }
+    // public int check(int tar,int sum){
+    //     if (sum == tar) return 1;
+    //     if (sum > tar) return 0;
+    //     return check(tar, sum + 1) + check(tar, sum + 2);
+    // }
 }

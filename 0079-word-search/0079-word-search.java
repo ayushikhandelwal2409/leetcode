@@ -23,7 +23,7 @@ class Solution {
             int newRow = row + dir[0];
             int newCol = col + dir[1];
             if (dfs(board, word,newRow, newCol, idx + 1,vis)) {
-                vis[row][col] = 0; // backtrack
+                // vis[row][col] = 0; // backtrack
                 return true;
             }
         }

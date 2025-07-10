@@ -5,7 +5,7 @@ class Solution {
         int[][] vis=new int[n][m];
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(dfs(board,word,i,j,0,vis) )return true;  // 0==>index of string {word}
+                if(board[i][j] == word.charAt(0) && dfs(board,word,i,j,0,vis) )return true;  // 0==>index of string {word}
             }
         }
         return false;

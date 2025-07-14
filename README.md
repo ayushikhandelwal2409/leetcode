@@ -160,6 +160,7 @@ this is my first repository.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0410-split-array-largest-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -292,6 +293,7 @@ this is my first repository.
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0611-valid-triangle-number) |
@@ -381,6 +383,7 @@ this is my first repository.
 | [0131-palindrome-partitioning](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0875-longest-mountain-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -397,6 +400,7 @@ this is my first repository.
 | [0134-gas-station](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
 | [0853-most-profit-assigning-work](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0853-most-profit-assigning-work) |
@@ -598,6 +602,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0878-shifting-letters](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0878-shifting-letters) |

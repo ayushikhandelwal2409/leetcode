@@ -325,6 +325,7 @@ this is my first repository.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0076-minimum-window-substring) |
@@ -416,6 +417,7 @@ this is my first repository.
 | [0002-add-two-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0070-climbing-stairs) |
@@ -528,6 +530,7 @@ this is my first repository.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0258-add-digits) |

@@ -364,6 +364,7 @@ this is my first repository.
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3396-valid-word](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3451-string-compression-iii) |
 ## String Matching
 |  |

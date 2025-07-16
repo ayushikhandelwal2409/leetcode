@@ -479,6 +479,7 @@ this is my first repository.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Search Tree
 |  |
@@ -488,6 +489,7 @@ this is my first repository.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -516,6 +518,7 @@ this is my first repository.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Matrix
 |  |
@@ -644,6 +647,7 @@ this is my first repository.
 | [0675-cut-off-trees-for-golf-event](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0733-flood-fill) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1036-rotting-oranges) |
@@ -684,6 +688,7 @@ this is my first repository.
 | [0565-array-nesting](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0565-array-nesting) |
 | [0684-redundant-connection](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0733-flood-fill) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0988-flip-equivalent-binary-trees) |

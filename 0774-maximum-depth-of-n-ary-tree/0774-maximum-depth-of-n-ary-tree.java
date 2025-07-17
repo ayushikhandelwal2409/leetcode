@@ -22,21 +22,17 @@ class Solution {
         if(root==null){
             return 0;
         }
-        List<List<List<Node>>> l=new ArrayList<>();
+        int count=0;
         Queue<Node> q=new LinkedList<>();
         q.add(root);
         while(!q.isEmpty()){
-            List<List<Node>> cur=new ArrayList<>();
+            count++;
             int level=q.size();
             for(int i=0;i<level;i++){
                 Node n=q.poll();
-                cur.add(n.children);
-                for(Node k: n.children){
-                    q.add(k);
-                }
+                q.addAll(n.children);
             }
-            l.add(cur);
         }
-        return l.size();
+        return count;
     }
 }

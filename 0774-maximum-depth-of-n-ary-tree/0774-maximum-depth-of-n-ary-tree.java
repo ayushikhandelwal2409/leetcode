@@ -22,16 +22,17 @@ class Solution {
         if(root==null){
             return 0;
         }
-        int count=0;
+        int count= 0;
         Queue<Node> q=new LinkedList<>();
         q.add(root);
         while(!q.isEmpty()){
-            count++;
+            
             int level=q.size();
             for(int i=0;i<level;i++){
                 Node n=q.poll();
                 q.addAll(n.children);
             }
+            count++;
         }
         return count;
     }

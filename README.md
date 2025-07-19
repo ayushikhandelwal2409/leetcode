@@ -373,6 +373,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -483,6 +484,7 @@ this is my first repository.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -528,6 +530,7 @@ this is my first repository.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -703,6 +706,7 @@ this is my first repository.
 | [0547-number-of-provinces](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0565-array-nesting](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0565-array-nesting) |
+| [0572-subtree-of-another-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0733-flood-fill) |
@@ -846,4 +850,8 @@ this is my first repository.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0062-unique-paths) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->

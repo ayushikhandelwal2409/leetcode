@@ -446,6 +446,7 @@ this is my first repository.
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1500-count-largest-group) |
+| [2050-count-good-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -457,6 +458,7 @@ this is my first repository.
 | [0342-power-of-four](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
 | ------- |

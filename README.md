@@ -685,6 +685,7 @@ this is my first repository.
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1036-rotting-oranges) |
@@ -736,6 +737,7 @@ this is my first repository.
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0922-possible-bipartition) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -767,6 +769,7 @@ this is my first repository.
 | [0131-palindrome-partitioning](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
+| [0813-all-paths-from-source-to-target](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Trie
@@ -847,6 +850,7 @@ this is my first repository.
 | [0547-number-of-provinces](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1039-find-the-town-judge) |

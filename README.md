@@ -135,6 +135,7 @@ this is my first repository.
 | [0056-merge-intervals](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0075-sort-colors) |
@@ -395,6 +396,7 @@ this is my first repository.
 | [0053-maximum-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -562,6 +564,7 @@ this is my first repository.
 | [0048-rotate-image](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0079-word-search) |

@@ -23,7 +23,6 @@ class Solution {
                 pm+= 1;
             }
         }
-        System.out.println(pm);
         return pm;
     }
 }

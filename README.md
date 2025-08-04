@@ -46,6 +46,7 @@ this is my first repository.
 | [0202-happy-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0443-string-compression) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
@@ -88,6 +89,7 @@ this is my first repository.
 | [0242-valid-anagram](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0414-third-maximum-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0611-valid-triangle-number) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0807-custom-sort-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0807-custom-sort-string) |
@@ -175,6 +177,7 @@ this is my first repository.
 | [0485-max-consecutive-ones](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -259,6 +262,7 @@ this is my first repository.
 | [0424-longest-repeating-character-replacement](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0575-distribute-candies) |
@@ -310,6 +314,7 @@ this is my first repository.
 | [0374-guess-number-higher-or-lower](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0441-arranging-coins) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0713-subarray-product-less-than-k) |

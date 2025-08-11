@@ -16,7 +16,6 @@
 class Solution {
     int idx=0;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        TreeNode root=new TreeNode(preorder[0]);
         HashMap<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < inorder.length; i++) {
             map.put(inorder[i], i); 

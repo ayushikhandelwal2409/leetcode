@@ -536,6 +536,7 @@ this is my first repository.
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0904-leaf-similar-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Search Tree
 |  |
@@ -585,6 +586,7 @@ this is my first repository.
 | [0637-average-of-levels-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0904-leaf-similar-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Matrix
 |  |
@@ -789,6 +791,7 @@ this is my first repository.
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0904-leaf-similar-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0922-possible-bipartition](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0922-possible-bipartition) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1073-number-of-enclaves) |

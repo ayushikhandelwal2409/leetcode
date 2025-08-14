@@ -15,25 +15,15 @@
  */
 class Solution {
     public boolean isEvenOddTree(TreeNode root) {
-        //ArrayList<ArrayList<TreeNode>> list=new ArrayList<>();
+        ArrayList<ArrayList<TreeNode>> list=new ArrayList<>();
         Queue<TreeNode> q=new LinkedList<>();
         q.offer(root);
-        boolean evenlevel=true;
         while(!q.isEmpty()){
             int size=q.size();
-            //ArrayList<TreeNode> k=new ArrayList<>();
-            int prevval=evenlevel?Integer.MIN_VALUE:Integer.MAX_VALUE;
+            ArrayList<TreeNode> k=new ArrayList<>();
             for(int i=0;i<size;i++){
                 TreeNode node=q.poll();
-                //k.add(node);
-                 if (evenlevel) {
-                    // Even level → values must be odd and strictly increasing
-                    if (node.val % 2 == 0 || node.val <= prevval) return false;
-                } else {
-                    // Odd level → values must be even and strictly decreasing
-                    if (node.val % 2 != 0 || node.val >= prevval) return false;
-                }
-                prevval=node.val;
+                k.add(node);
                 if(node.left!=null){
                     q.offer(node.left);
                 }
@@ -41,29 +31,28 @@ class Solution {
                     q.offer(node.right);
                 }
             }
-            //list.add(new ArrayList<>(k));
-            evenlevel=!evenlevel;
+            list.add(new ArrayList<>(k));
+        }
+        return check(list);
+    }
+    public static boolean check(ArrayList<ArrayList<TreeNode>> list){
+        int n=list.size();
+        for(int i=0;i<n;i+=2){
+            for(int j=0;j<list.get(i).size();j++){
+                if(list.get(i).get(j).val%2==0) return false;
+                if(j!=0){
+                    if(list.get(i).get(j-1).val>=list.get(i).get(j).val) return false;
+                }
+            }
+        }
+        for(int i=1;i<n;i+=2){
+            for(int j=0;j<list.get(i).size();j++){
+                if(list.get(i).get(j).val%2!=0) return false;
+                if(j!=0){
+                    if(list.get(i).get(j-1).val<=list.get(i).get(j).val) return false;
+                }
+            }
         }
         return true;
     }
-    // public static boolean check(ArrayList<ArrayList<TreeNode>> list){
-    //     int n=list.size();
-    //     for(int i=0;i<n;i+=2){
-    //         for(int j=0;j<list.get(i).size();j++){
-    //             if(list.get(i).get(j).val%2==0) return false;
-    //             if(j!=0){
-    //                 if(list.get(i).get(j-1).val>list.get(i).get(j).val) return false;
-    //             }
-    //         }
-    //     }
-    //     for(int i=1;i<n;i+=2){
-    //         for(int j=0;j<list.get(i).size();j++){
-    //             if(list.get(i).get(j).val%2!=0) return false;
-    //             if(j!=0){
-    //                 if(list.get(i).get(j-1).val<list.get(i).get(j).val) return false;
-    //             }
-    //         }
-    //     }
-    //     return true;
-    // }
 }

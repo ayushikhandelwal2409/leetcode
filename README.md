@@ -375,6 +375,7 @@ this is my first repository.
 | [0242-valid-anagram](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0402-remove-k-digits) |
@@ -521,6 +522,7 @@ this is my first repository.
 | [0226-invert-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -577,6 +579,7 @@ this is my first repository.
 | [0226-invert-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -721,6 +724,7 @@ this is my first repository.
 | [0207-course-schedule](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -770,6 +774,7 @@ this is my first repository.
 | [0226-invert-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0332-reconstruct-itinerary) |
@@ -890,6 +895,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Iterator
 |  |
 | ------- |

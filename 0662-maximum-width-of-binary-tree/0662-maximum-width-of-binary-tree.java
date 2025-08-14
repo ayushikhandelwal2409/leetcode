@@ -15,6 +15,9 @@
  */
 class Solution {
     public int widthOfBinaryTree(TreeNode root) {
+        if(root==null){
+            return 0;
+        }
         Queue<Pair<TreeNode,Integer>> q=new LinkedList<>();
         q.offer(new Pair<>(root,0));
         int max=0;

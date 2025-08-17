@@ -549,6 +549,7 @@ this is my first repository.
 | [1008-binary-tree-cameras](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1493-frog-position-after-t-seconds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1731-even-odd-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1731-even-odd-tree) |
 ## Binary Search Tree
 |  |
@@ -764,6 +765,7 @@ this is my first repository.
 | [1036-rotting-oranges](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1493-frog-position-after-t-seconds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1731-even-odd-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -828,6 +830,7 @@ this is my first repository.
 | [1021-distribute-coins-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1073-number-of-enclaves) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1493-frog-position-after-t-seconds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Memoization
@@ -945,6 +948,7 @@ this is my first repository.
 | [0922-possible-bipartition](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1493-frog-position-after-t-seconds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1916-find-center-of-star-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2121-find-if-path-exists-in-graph) |

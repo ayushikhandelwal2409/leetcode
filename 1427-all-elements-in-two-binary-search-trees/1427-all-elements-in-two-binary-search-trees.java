@@ -15,35 +15,35 @@
  */
 class Solution {
     public List<Integer> getAllElements(TreeNode root1, TreeNode root2) {
-        ArrayList<Integer> ll=new ArrayList<>();
-        // ArrayList<Integer> t1=new ArrayList<>();
-        // ArrayList<Integer> t2=new ArrayList<>();
-        inorder(root1,ll);
-        inorder(root2,ll);
-        // int i=0, j=0;
-        // while(i<t1.size() && j<t2.size()){
-        //     if(t1.get(i)<t2.get(j)){
-        //         ll.add(t1.get(i));
-        //         i++;
-        //     }
-        //     else{
-        //         ll.add(t2.get(j));
-        //         j++;
-        //     }
-        // }
-        // while(i<t1.size()){
-        //     ll.add(t1.get(i));
-        // }
-        // while(j<t2.size()){
-        //     ll.add(t2.get(j));
-        // }
-        Collections.sort(ll);
-        return ll;
+        ArrayList<Integer> t1=new ArrayList<>();
+        ArrayList<Integer> t2=new ArrayList<>();
+        inorder(root1,t1);
+        inorder(root2,t2);
+        return merge(t1,t2);
     }
     public static void inorder(TreeNode root,ArrayList<Integer> ll){
         if(root==null) return ;
         inorder(root.left,ll);
         ll.add(root.val);
         inorder(root.right,ll);
+    }
+    public static ArrayList<Integer> merge(ArrayList<Integer> t1,ArrayList<Integer> t2){
+        ArrayList<Integer> ans=new ArrayList<>();
+        int i=0, j=0;
+        while(i<t1.size() && j<t2.size()){
+            if(t1.get(i)<t2.get(j)){
+                ans.add(t1.get(i++));
+            }
+            else{
+                ans.add(t2.get(j++));
+            }
+        }
+        while(i<t1.size()){
+            ans.add(t1.get(i++));
+        }
+        while(j<t2.size()){
+            ans.add(t2.get(j++));
+        }
+        return ans;
     }
 }

@@ -92,6 +92,7 @@ this is my first repository.
 | [0242-valid-anagram](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0414-third-maximum-number) |
+| [0502-ipo](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0502-ipo) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0611-valid-triangle-number) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -182,6 +183,7 @@ this is my first repository.
 | [0463-island-perimeter](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -345,6 +347,7 @@ this is my first repository.
 | [0023-merge-k-sorted-lists](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0502-ipo](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0502-ipo) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -446,6 +449,7 @@ this is my first repository.
 | [0402-remove-k-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
 | [0853-most-profit-assigning-work](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0853-most-profit-assigning-work) |

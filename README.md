@@ -222,6 +222,7 @@ this is my first repository.
 | [1046-max-consecutive-ones-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -287,6 +288,7 @@ this is my first repository.
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1039-find-the-town-judge) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1238-alphabet-board-path](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1238-alphabet-board-path) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -557,6 +559,7 @@ this is my first repository.
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1493-frog-position-after-t-seconds) |
@@ -625,6 +628,7 @@ this is my first repository.
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1731-even-odd-tree) |
@@ -850,6 +854,7 @@ this is my first repository.
 | [1008-binary-tree-cameras](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1073-number-of-enclaves) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1493-frog-position-after-t-seconds) |

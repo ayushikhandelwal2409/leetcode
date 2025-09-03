@@ -178,6 +178,7 @@ this is my first repository.
 | [0239-sliding-window-maximum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0324-wiggle-sort-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -337,6 +338,7 @@ this is my first repository.
 | [0222-count-complete-tree-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -443,6 +445,7 @@ this is my first repository.
 | [0131-palindrome-partitioning](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0410-split-array-largest-sum) |

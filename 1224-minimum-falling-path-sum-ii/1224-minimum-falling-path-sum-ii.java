@@ -8,11 +8,11 @@ class Solution {
         }
         int ans=Integer.MAX_VALUE;
         for(int i=0;i<col;i++){
-            ans=Math.min(ans,minpath(matrix,0,i,dp));
+            ans=Math.min(ans,minpathII(matrix,0,i,dp));
         }
         return ans;
     }
-    public static int minpath(int[][] mat,int r,int c,int[][] dp){
+    public static int minpathII(int[][] mat,int r,int c,int[][] dp){
         if(c<0 || c>=mat[0].length){
             return Integer.MAX_VALUE;
         }
@@ -27,7 +27,7 @@ class Solution {
             if(i==c){
                 continue;
             }
-            ans=Math.min(ans,minpath(mat,r+1,i,dp));
+            ans=Math.min(ans,minpathII(mat,r+1,i,dp));
         }
 
         return dp[r][c]=ans+mat[r][c];

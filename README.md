@@ -458,6 +458,7 @@ this is my first repository.
 | [0131-palindrome-partitioning](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -526,6 +527,7 @@ this is my first repository.
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0367-valid-perfect-square) |
@@ -819,6 +821,7 @@ this is my first repository.
 | [0207-course-schedule](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0322-coin-change) |

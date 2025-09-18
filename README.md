@@ -110,6 +110,7 @@ this is my first repository.
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3430-count-days-without-meetings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Merge Sort
@@ -250,6 +251,7 @@ this is my first repository.
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2751-sliding-subarray-beauty](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -720,6 +722,7 @@ this is my first repository.
 | [1224-minimum-falling-path-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Simulation

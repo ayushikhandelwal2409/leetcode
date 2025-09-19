@@ -1,13 +1,13 @@
-import java.util.*;
 class Solution {
     public int findKthLargest(int[] nums, int k) {
-        Arrays.sort(nums);
-        ArrayList<Integer> arr = new ArrayList<>();
-        for(int i=0;i<nums.length;i++){
-                arr.add(nums[i]);
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+
+        for (int num : nums) {
+            minHeap.add(num);
+            if (minHeap.size() > k) {
+                minHeap.poll(); // remove smallest
+            }
         }
-        // int l=k%arr.size();
-        int in=arr.size()-k;
-        return arr.get(in);
+        return minHeap.peek(); // root = kth large
     }
 }

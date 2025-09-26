@@ -29,7 +29,7 @@ class Solution {
             }
             else
             {
-                if(nums[end]>=max-1)
+                if(nums[end]>=max)
                 {
                     max=nums[end];
                     ind=end;

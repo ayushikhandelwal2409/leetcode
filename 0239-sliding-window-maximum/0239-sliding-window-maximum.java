@@ -34,7 +34,7 @@ class Solution {
                     max=nums[end];
                     ind=end;
                 }
-                else if(nums[i]>=max)
+                else if(nums[i]>=max-1)
                 {
                     max=nums[i];
                     ind=i;

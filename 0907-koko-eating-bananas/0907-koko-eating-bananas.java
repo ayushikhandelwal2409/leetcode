@@ -19,7 +19,7 @@ class Solution {
     public static boolean canEat(int[] piles ,int h,int k){
         int hours_needed=0;
         for(int pile:piles){
-            hours_needed+=Math.ceil(pile/(double)k);
+            hours_needed+=(int)Math.ceil(pile/(double)k);
         }
         return hours_needed<=h;
     }

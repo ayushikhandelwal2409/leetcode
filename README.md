@@ -100,6 +100,7 @@ this is my first repository.
 | [0502-ipo](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0502-ipo) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0807-custom-sort-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0807-custom-sort-string) |
@@ -217,6 +218,7 @@ this is my first repository.
 | [0565-array-nesting](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0565-array-nesting) |
 | [0575-distribute-candies](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -563,6 +565,7 @@ this is my first repository.
 | [0367-valid-perfect-square](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1500-count-largest-group) |

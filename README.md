@@ -60,6 +60,7 @@ this is my first repository.
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Divide and Conquer
 |  |
@@ -273,6 +274,7 @@ this is my first repository.
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -343,6 +345,7 @@ this is my first repository.
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |

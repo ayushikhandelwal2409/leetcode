@@ -263,6 +263,7 @@ this is my first repository.
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1386-shift-2d-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1386-shift-2d-grid) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -766,6 +767,7 @@ this is my first repository.
 | [1073-number-of-enclaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1386-shift-2d-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1386-shift-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
@@ -782,6 +784,7 @@ this is my first repository.
 | [0498-diagonal-traverse](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0861-flipping-an-image) |
+| [1386-shift-2d-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1386-shift-2d-grid) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Queue
 |  |

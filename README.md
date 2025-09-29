@@ -264,6 +264,7 @@ this is my first repository.
 | [1224-minimum-falling-path-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1386-shift-2d-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1386-shift-2d-grid) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -768,6 +769,7 @@ this is my first repository.
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1386-shift-2d-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1386-shift-2d-grid) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |

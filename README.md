@@ -267,6 +267,7 @@ this is my first repository.
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1791-richest-customer-wealth](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -763,6 +764,7 @@ this is my first repository.
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1791-richest-customer-wealth](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |

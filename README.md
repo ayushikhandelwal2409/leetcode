@@ -97,6 +97,7 @@ this is my first repository.
 | [0242-valid-anagram](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -203,6 +204,7 @@ this is my first repository.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0406-queue-reconstruction-by-height](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -1171,6 +1173,7 @@ this is my first repository.
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -1193,4 +1196,8 @@ this is my first repository.
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->

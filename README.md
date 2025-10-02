@@ -121,6 +121,7 @@ this is my first repository.
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1829-maximum-units-on-a-truck](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -280,6 +281,7 @@ this is my first repository.
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1829-maximum-units-on-a-truck](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -566,6 +568,7 @@ this is my first repository.
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1829-maximum-units-on-a-truck](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |

@@ -480,6 +480,7 @@ this is my first repository.
 | [0521-longest-uncommon-subsequence-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0567-permutation-in-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
+| [0800-letter-case-permutation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0807-custom-sort-string) |
 | [0878-shifting-letters](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0886-score-of-parentheses) |
@@ -845,6 +846,7 @@ this is my first repository.
 | [0338-counting-bits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0397-integer-replacement) |
+| [0800-letter-case-permutation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0861-flipping-an-image) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Number Theory
@@ -1062,6 +1064,7 @@ this is my first repository.
 | [0131-palindrome-partitioning](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
+| [0800-letter-case-permutation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |

@@ -602,6 +602,7 @@ this is my first repository.
 | [0070-climbing-stairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0326-power-of-three) |
@@ -624,6 +625,7 @@ this is my first repository.
 | [0024-swap-nodes-in-pairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0394-decode-string) |
@@ -837,6 +839,7 @@ this is my first repository.
 | [0187-repeated-dna-sequences](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0397-integer-replacement) |

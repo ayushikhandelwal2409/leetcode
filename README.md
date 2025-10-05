@@ -266,6 +266,7 @@ this is my first repository.
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1022-unique-paths-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1036-rotting-oranges) |
@@ -797,6 +798,7 @@ this is my first repository.
 | [0733-flood-fill](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0861-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1022-unique-paths-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -848,6 +850,7 @@ this is my first repository.
 | [0397-integer-replacement](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0397-integer-replacement) |
 | [0800-letter-case-permutation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0861-flipping-an-image) |
+| [1022-unique-paths-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1022-unique-paths-iii) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Number Theory
 |  |
@@ -1067,6 +1070,7 @@ this is my first repository.
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
 | [0800-letter-case-permutation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1022-unique-paths-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1022-unique-paths-iii) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Trie

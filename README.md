@@ -223,6 +223,7 @@ this is my first repository.
 | [0455-assign-cookies](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0502-ipo) |
@@ -542,6 +543,7 @@ this is my first repository.
 | [0410-split-array-largest-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -625,6 +627,7 @@ this is my first repository.
 | [0367-valid-perfect-square](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0486-predict-the-winner](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -645,6 +648,7 @@ this is my first repository.
 | [0326-power-of-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2050-count-good-numbers) |
 ## Tree
@@ -1239,6 +1243,7 @@ this is my first repository.
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0486-predict-the-winner) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Binary Indexed Tree
 |  |

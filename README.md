@@ -971,6 +971,7 @@ this is my first repository.
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0922-possible-bipartition) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -1039,6 +1040,7 @@ this is my first repository.
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0922-possible-bipartition](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0922-possible-bipartition) |
@@ -1178,6 +1180,7 @@ this is my first repository.
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |

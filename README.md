@@ -452,6 +452,7 @@ this is my first repository.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0071-simplify-path) |
@@ -514,6 +515,7 @@ this is my first repository.
 | [0005-longest-palindromic-substring](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0055-jump-game) |
@@ -560,6 +562,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0134-gas-station) |
@@ -635,6 +638,7 @@ this is my first repository.
 | [0002-add-two-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0326-power-of-three) |

@@ -1135,6 +1135,7 @@ this is my first repository.
 | [0883-car-fleet](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0883-car-fleet) |
 | [0886-score-of-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0886-score-of-parentheses) |
 | [0933-increasing-order-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0933-increasing-order-search-tree) |
+| [0937-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1156,11 +1157,13 @@ this is my first repository.
 | [0654-maximum-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0883-car-fleet) |
+| [0937-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0937-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0937-online-stock-span) |
 ## Iterator
 |  |
 | ------- |
@@ -1263,4 +1266,8 @@ this is my first repository.
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->

@@ -47,6 +47,7 @@ this is my first repository.
 | [0202-happy-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -483,6 +484,7 @@ this is my first repository.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0409-longest-palindrome) |
@@ -548,6 +550,7 @@ this is my first repository.
 | [0322-coin-change](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0416-partition-equal-subset-sum) |

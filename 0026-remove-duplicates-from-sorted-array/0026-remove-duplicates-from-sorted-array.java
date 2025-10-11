@@ -10,10 +10,6 @@ class Solution {
         for( i=0;i<l.size();i++){
             nums[i]=l.get(i);
         }
-        while(i<nums.length){
-            nums[i]=0;
-            i++;
-        }
         return l.size();
     }
 }

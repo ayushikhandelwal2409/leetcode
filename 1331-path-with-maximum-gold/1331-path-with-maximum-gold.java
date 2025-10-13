@@ -5,6 +5,7 @@ class Solution {
         int cnt=0;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
+                if(grid[i][j]!=0)
                 cnt = Math.max(cnt, max_gold(grid,i,j));
             }
         }

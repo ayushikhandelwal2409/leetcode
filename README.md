@@ -491,6 +491,7 @@ this is my first repository.
 | [0115-distinct-subsequences](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0179-largest-number) |
@@ -562,6 +563,7 @@ this is my first repository.
 | [0091-decode-ways](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0198-house-robber) |

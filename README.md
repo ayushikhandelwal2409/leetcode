@@ -141,6 +141,7 @@ this is my first repository.
 | [2756-buy-two-chocolates](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2756-buy-two-chocolates) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3430-count-days-without-meetings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -328,6 +329,7 @@ this is my first repository.
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -448,6 +450,7 @@ this is my first repository.
 | [2294-minimum-time-to-complete-trips](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -961,6 +964,7 @@ this is my first repository.
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2751-sliding-subarray-beauty](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -980,6 +984,7 @@ this is my first repository.
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Breadth-First Search
 |  |

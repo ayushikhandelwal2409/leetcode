@@ -500,6 +500,7 @@ this is my first repository.
 | [0151-reverse-words-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0227-basic-calculator-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0290-word-pattern) |
@@ -668,6 +669,7 @@ this is my first repository.
 | [0070-climbing-stairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0279-perfect-squares) |
@@ -1173,6 +1175,7 @@ this is my first repository.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0227-basic-calculator-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0402-remove-k-digits) |

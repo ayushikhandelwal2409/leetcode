@@ -22,6 +22,7 @@ this is my first repository.
 | [0148-sort-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -1099,6 +1100,7 @@ this is my first repository.
 | [0684-redundant-connection](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0733-flood-fill) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1339,4 +1341,8 @@ this is my first repository.
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0526-beautiful-arrangement) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->

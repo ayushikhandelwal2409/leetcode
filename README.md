@@ -339,6 +339,7 @@ this is my first repository.
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -411,6 +412,7 @@ this is my first repository.
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Counting
 |  |
@@ -482,6 +484,7 @@ this is my first repository.
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## String
 |  |
@@ -989,6 +992,7 @@ this is my first repository.
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2751-sliding-subarray-beauty](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Prefix Sum
 |  |

@@ -350,6 +350,7 @@ this is my first repository.
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3863-power-grid-maintenance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -419,6 +420,7 @@ this is my first repository.
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3863-power-grid-maintenance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Counting
 |  |
 | ------- |
@@ -491,6 +493,7 @@ this is my first repository.
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3863-power-grid-maintenance) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## String
 |  |
@@ -1083,6 +1086,7 @@ this is my first repository.
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3863-power-grid-maintenance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1158,6 +1162,7 @@ this is my first repository.
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3863-power-grid-maintenance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Memoization
 |  |
 | ------- |
@@ -1277,6 +1282,7 @@ this is my first repository.
 | [1073-number-of-enclaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3863-power-grid-maintenance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -1300,6 +1306,7 @@ this is my first repository.
 | [2121-find-if-path-exists-in-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3863-power-grid-maintenance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3863-power-grid-maintenance) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Topological Sort
 |  |
@@ -1341,6 +1348,7 @@ this is my first repository.
 | ------- |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3863-power-grid-maintenance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Rolling Hash
 |  |
 | ------- |

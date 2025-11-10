@@ -351,6 +351,7 @@ this is my first repository.
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
@@ -421,6 +422,7 @@ this is my first repository.
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Counting
 |  |
@@ -679,6 +681,7 @@ this is my first repository.
 | [2618-maximize-the-minimum-powered-city](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2756-buy-two-chocolates](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Database
 |  |
 | ------- |
@@ -1251,6 +1254,7 @@ this is my first repository.
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1666-make-the-string-great](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1666-make-the-string-great) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Enumeration
 |  |
 | ------- |
@@ -1270,6 +1274,7 @@ this is my first repository.
 | [0739-daily-temperatures](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0937-online-stock-span) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
 |  |
 | ------- |

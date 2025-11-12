@@ -333,6 +333,7 @@ this is my first repository.
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2751-sliding-subarray-beauty) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2756-buy-two-chocolates](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -729,6 +730,7 @@ this is my first repository.
 | [2050-count-good-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2050-count-good-numbers) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
@@ -981,6 +983,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0258-add-digits) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Bucket Sort
 |  |
 | ------- |

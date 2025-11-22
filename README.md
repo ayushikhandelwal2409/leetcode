@@ -336,6 +336,7 @@ this is my first repository.
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2756-buy-two-chocolates](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -737,6 +738,7 @@ this is my first repository.
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion

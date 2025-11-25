@@ -403,6 +403,7 @@ this is my first repository.
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -728,6 +729,7 @@ this is my first repository.
 | [0486-predict-the-winner](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1448-maximum-69-number) |

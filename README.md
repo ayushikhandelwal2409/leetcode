@@ -328,6 +328,7 @@ this is my first repository.
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -648,6 +649,7 @@ this is my first repository.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -940,6 +942,7 @@ this is my first repository.
 | [1791-richest-customer-wealth](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |

@@ -312,6 +312,7 @@ this is my first repository.
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1590-make-sum-divisible-by-p](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -415,6 +416,7 @@ this is my first repository.
 | [1370-count-number-of-nice-subarrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1500-count-largest-group) |
+| [1590-make-sum-divisible-by-p](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -1062,6 +1064,7 @@ this is my first repository.
 | [1370-count-number-of-nice-subarrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1590-make-sum-divisible-by-p](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |

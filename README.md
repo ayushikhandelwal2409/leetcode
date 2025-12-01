@@ -65,6 +65,7 @@ this is my first repository.
 | [0611-valid-triangle-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0838-push-dominoes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0838-push-dominoes) |
 | [0852-friends-of-appropriate-ages](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0861-flipping-an-image) |
@@ -564,6 +565,7 @@ this is my first repository.
 | [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0807-custom-sort-string) |
+| [0838-push-dominoes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0838-push-dominoes) |
 | [0878-shifting-letters](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -639,6 +641,7 @@ this is my first repository.
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0838-push-dominoes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0838-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0967-minimum-falling-path-sum) |

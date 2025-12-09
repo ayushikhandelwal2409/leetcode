@@ -746,6 +746,7 @@ this is my first repository.
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1925-count-square-sum-triples](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2050-count-good-numbers) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -1295,6 +1296,7 @@ this is my first repository.
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0875-longest-mountain-in-array) |
+| [1925-count-square-sum-triples](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |

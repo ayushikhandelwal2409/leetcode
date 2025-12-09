@@ -5,7 +5,7 @@ class Solution {
             for (int b = 1; b <= n; b++) {
                 int c = (int) Math.sqrt(a * a + b * b);
                 if (c <= n && c * c == a * a + b * b) {
-                    ++res;
+                    res++;
                 }
             }
         }

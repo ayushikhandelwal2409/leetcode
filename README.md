@@ -151,6 +151,7 @@ this is my first repository.
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3430-count-days-without-meetings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3531-count-covered-buildings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Merge Sort
 |  |
@@ -354,6 +355,7 @@ this is my first repository.
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -434,6 +436,7 @@ this is my first repository.
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3531-count-covered-buildings) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -593,6 +596,7 @@ this is my first repository.
 | [3451-string-compression-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3451-string-compression-iii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3606-coupon-code-validator) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
 |  |

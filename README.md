@@ -321,6 +321,7 @@ this is my first repository.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -425,6 +426,7 @@ this is my first repository.
 | [1590-make-sum-divisible-by-p](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -451,6 +453,7 @@ this is my first repository.
 | [1034-subarrays-with-k-different-integers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -755,6 +758,7 @@ this is my first repository.
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2050-count-good-numbers) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |

@@ -75,6 +75,7 @@ this is my first repository.
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2540-minimum-common-value](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2540-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -335,6 +336,7 @@ this is my first repository.
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2540-minimum-common-value](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -429,6 +431,7 @@ this is my first repository.
 | [1814-count-nice-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2540-minimum-common-value](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2540-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -496,6 +499,7 @@ this is my first repository.
 | [2294-minimum-time-to-complete-trips](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2540-minimum-common-value](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3790-fruits-into-baskets-ii) |

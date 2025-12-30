@@ -1241,6 +1241,7 @@ this is my first repository.
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Memoization
@@ -1394,6 +1395,7 @@ this is my first repository.
 | [1916-find-center-of-star-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |

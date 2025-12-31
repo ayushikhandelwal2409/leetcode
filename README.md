@@ -520,6 +520,7 @@ this is my first repository.
 | [0451-sort-characters-by-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0502-ipo) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0743-network-delay-time](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0743-network-delay-time) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1144,6 +1145,7 @@ this is my first repository.
 | [0684-redundant-connection](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0743-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1213,6 +1215,7 @@ this is my first repository.
 | [0684-redundant-connection](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0743-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -1384,6 +1387,7 @@ this is my first repository.
 | [0332-reconstruct-itinerary](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -1413,6 +1417,7 @@ this is my first repository.
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |

@@ -20,7 +20,7 @@ class Solution {
             int node = curr[0];
             int cost = curr[1];
             int stops = curr[2];
-           // if(cost>minCost[node])continue;
+        
 
             if (stops > k) continue;
 

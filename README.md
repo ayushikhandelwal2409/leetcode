@@ -1401,6 +1401,7 @@ this is my first repository.
 | [1039-find-the-town-judge](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1493-frog-position-after-t-seconds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1493-frog-position-after-t-seconds) |
+| [1791-find-center-of-star-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1916-find-center-of-star-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2121-find-if-path-exists-in-graph) |

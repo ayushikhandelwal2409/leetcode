@@ -11,7 +11,6 @@ class Solution {
                 }
             }
             max=Math.max(max,dp[i]);
-            System.out.println(max);
         }
         return max;        
     }

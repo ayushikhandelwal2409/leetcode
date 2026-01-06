@@ -1,3 +1,4 @@
+//brute force
 class Solution {
     public String longestPalindrome(String s) {
         String k="";
@@ -8,7 +9,6 @@ class Solution {
                     if(len<(j-i+1)){
                         k=s.substring(i,j+1);
                         len=(j - i + 1);
-                        //k.append(s.substring(j,j+i+1));
                     }
                 }
 

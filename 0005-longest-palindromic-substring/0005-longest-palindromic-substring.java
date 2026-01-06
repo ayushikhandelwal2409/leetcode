@@ -1,29 +1,30 @@
-//brute force
 class Solution {
     public String longestPalindrome(String s) {
-        String k="";
-        int len=0;
-        for(int i=0;i<s.length();i++){
-            for(int j=i;j<s.length();j++){
-                if(check(s.substring(i,j+1))){
-                    if(len<(j-i+1)){
-                        k=s.substring(i,j+1);
-                        len=(j - i + 1);
+        int n = s.length();
+        boolean[][] dp = new boolean[n][n];
+        int start = 0, maxLen = 1;
+
+        for (int i = 0; i < n; i++) {
+            dp[i][i] = true;
+        }
+
+        for (int len = 2; len <= n; len++) {
+            for (int i = 0; i + len - 1 < n; i++) {
+                int j = i + len - 1;
+
+                if (s.charAt(i) == s.charAt(j)) {
+                    if (len == 2 || dp[i + 1][j - 1]) {//So for length = 2, there is no middle substring to check.
+                        dp[i][j] = true;
+                        if (len > maxLen) {
+                            maxLen = len;
+                            start = i;
+                        }
                     }
                 }
-
             }
         }
-        return k;
-    }
-    public static boolean check(String s){
-        int i=0;
-        int j=s.length()-1;
-        while(i<=j){
-            if(s.charAt(i)!=s.charAt(j)) return false;
-            i++;
-            j--;
-        }
-        return true;
+        return s.substring(start, start + maxLen);
     }
 }
+
+//dp[i + 1][j - 1] middle substring checking

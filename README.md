@@ -332,6 +332,7 @@ this is my first repository.
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2294-minimum-time-to-complete-trips) |
@@ -696,6 +697,7 @@ this is my first repository.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Greedy
 |  |
@@ -1117,6 +1119,7 @@ this is my first repository.
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |

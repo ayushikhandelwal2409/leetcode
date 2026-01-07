@@ -340,6 +340,7 @@ this is my first repository.
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -698,6 +699,7 @@ this is my first repository.
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Greedy
 |  |

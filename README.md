@@ -261,6 +261,7 @@ this is my first repository.
 | [0518-coin-change-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0528-random-pick-with-weight](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0542-01-matrix) |
@@ -494,6 +495,7 @@ this is my first repository.
 | [0374-guess-number-higher-or-lower](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0441-arranging-coins) |
+| [0528-random-pick-with-weight](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0611-valid-triangle-number) |
@@ -780,6 +782,7 @@ this is my first repository.
 | [0441-arranging-coins](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0486-predict-the-winner) |
+| [0528-random-pick-with-weight](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1110,6 +1113,7 @@ this is my first repository.
 | [0238-product-of-array-except-self](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0878-shifting-letters](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0878-shifting-letters) |
@@ -1522,4 +1526,8 @@ this is my first repository.
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->

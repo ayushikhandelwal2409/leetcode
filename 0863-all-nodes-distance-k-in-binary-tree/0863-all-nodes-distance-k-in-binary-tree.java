@@ -8,9 +8,7 @@ class Solution {
 
         // Step 2: Perform BFS from the target node to find all nodes at distance K
         List<Integer> result = new ArrayList<>();
-        if (graph.containsKey(target)) {
-            bfs(graph, target, k, result);
-        }
+        bfs(graph, target, k, result);
         return result;
     }
 

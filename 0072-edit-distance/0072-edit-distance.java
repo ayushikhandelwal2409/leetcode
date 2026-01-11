@@ -19,10 +19,10 @@ class Solution {
             ans=min_operation(s, t, i+1,j+1,dp);
         }
         else{
-            int delete = min_operation(s, t, i +  1, j,dp);
-            int replace = min_operation(s, t, i +  1, j + 1,dp);
-            int insert = min_operation(s, t, i , j + 1,dp);
-            ans = Math.min(delete, Math.min(replace, insert)) + 1;
+            int delete = 1+min_operation(s, t, i +  1, j,dp);
+            int replace = 1+min_operation(s, t, i +  1, j + 1,dp);
+            int insert = 1+min_operation(s, t, i , j + 1,dp);
+            ans = Math.min(delete, Math.min(replace, insert)) ;
         }
         return dp[i][j]=ans;
     }

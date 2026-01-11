@@ -265,6 +265,7 @@ this is my first repository.
 | [0532-k-diff-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0565-array-nesting) |
 | [0575-distribute-candies](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0575-distribute-candies) |
@@ -682,6 +683,7 @@ this is my first repository.
 | [0518-coin-change-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0546-remove-boxes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -1297,6 +1299,7 @@ this is my first repository.
 | [0139-word-break](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0397-integer-replacement) |
+| [0546-remove-boxes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0546-remove-boxes) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |

@@ -381,6 +381,7 @@ this is my first repository.
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
@@ -462,6 +463,7 @@ this is my first repository.
 | [3606-coupon-code-validator](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Counting
@@ -1121,6 +1123,7 @@ this is my first repository.
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Prefix Sum
 |  |
 | ------- |

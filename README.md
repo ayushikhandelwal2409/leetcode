@@ -127,6 +127,7 @@ this is my first repository.
 | [0611-valid-triangle-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0726-number-of-atoms](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0726-number-of-atoms) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0807-custom-sort-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0807-custom-sort-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0852-friends-of-appropriate-ages) |
@@ -429,6 +430,7 @@ this is my first repository.
 | [0560-subarray-sum-equals-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0575-distribute-candies) |
+| [0726-number-of-atoms](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0807-custom-sort-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -611,6 +613,7 @@ this is my first repository.
 | [0567-permutation-in-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0647-palindromic-substrings) |
+| [0726-number-of-atoms](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0807-custom-sort-string) |
@@ -1372,6 +1375,7 @@ this is my first repository.
 | [0503-next-greater-element-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0682-baseball-game) |
+| [0726-number-of-atoms](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |

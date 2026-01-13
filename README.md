@@ -385,6 +385,7 @@ this is my first repository.
 | [3639-zero-array-transformation-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -827,6 +828,7 @@ this is my first repository.
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -1093,6 +1095,7 @@ this is my first repository.
 | ------- |
 | [0258-add-digits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0258-add-digits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Bucket Sort
 |  |
 | ------- |

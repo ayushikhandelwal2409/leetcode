@@ -234,6 +234,7 @@ this is my first repository.
 | [0238-product-of-array-except-self](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0260-single-number-iii) |
 | [0275-h-index-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -1078,6 +1079,7 @@ this is my first repository.
 | [0201-bitwise-and-of-numbers-range](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0397-integer-replacement) |

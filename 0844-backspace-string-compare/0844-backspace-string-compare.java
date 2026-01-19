@@ -9,22 +9,15 @@ class Solution {
             else
             st.push(ch);
         }
-        String a="";
-        while(!st.isEmpty()){
-            a+=st.pop();
-        }
+        Stack<Character> st2=new Stack<>();
         for(char ch:t.toCharArray()){
             if(ch=='#'){
-                if(!st.isEmpty())
-                st.pop();
+                if(!st2.isEmpty())
+                st2.pop();
             }
             else
-            st.push(ch);
+            st2.push(ch);
         }
-        String b="";
-        while(!st.isEmpty()){
-            b+=st.pop();
-        }
-        return a.equals(b);
+        return st.equals(st2);
     }
 }

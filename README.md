@@ -67,6 +67,7 @@ this is my first repository.
 | [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0838-push-dominoes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0838-push-dominoes) |
+| [0844-backspace-string-compare](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0844-backspace-string-compare) |
 | [0852-friends-of-appropriate-ages](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0861-flipping-an-image) |
@@ -624,6 +625,7 @@ this is my first repository.
 | [0800-letter-case-permutation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0807-custom-sort-string) |
 | [0838-push-dominoes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0838-push-dominoes) |
+| [0844-backspace-string-compare](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0844-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -1051,6 +1053,7 @@ this is my first repository.
 | [0498-diagonal-traverse](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0861-flipping-an-image) |
 | [1386-shift-2d-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1386-shift-2d-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -1393,6 +1396,7 @@ this is my first repository.
 | [0739-daily-temperatures](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0844-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0883-car-fleet) |
 | [0886-score-of-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0886-score-of-parentheses) |
 | [0933-increasing-order-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0933-increasing-order-search-tree) |

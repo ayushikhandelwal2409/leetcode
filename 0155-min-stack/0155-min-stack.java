@@ -11,12 +11,11 @@ class MinStack {
         if( minstack.isEmpty()|| minstack.peek()>=val){
             minstack.push(val);
         }
-       // if() minstack.push(val);
     }
     
     public void pop() {
         if(!st.isEmpty()){
-            if(!minstack.isEmpty() && st.peek().equals(minstack.peek())){
+            if(!minstack.isEmpty() && st.peek().equals(minstack.peek())){ //Java caches Integer objects only from -128 to 127. hence we have used .equals() instead of "=="
                 minstack.pop();
             }
            st.pop();
@@ -28,10 +27,7 @@ class MinStack {
     }
     
     public int getMin() {
-        //if(!minstack.isEmpty()){
-            return minstack.peek();
-        // }
-        // return st.peek();
+        return minstack.peek();
     }
 }
 

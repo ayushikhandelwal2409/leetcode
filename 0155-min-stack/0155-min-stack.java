@@ -1,44 +1,37 @@
-import java.util.ArrayList;
-
 class MinStack {
-    ArrayList<Integer> stack;
-    ArrayList<Integer> minStack;
-
+    Stack<Integer> minstack;
+    Stack<Integer> st;
     public MinStack() {
-        stack = new ArrayList<>();
-        minStack = new ArrayList<>();
+        minstack=new Stack<>();
+        st=new Stack<>();
     }
-
+    
     public void push(int val) {
-        stack.add(val);
-        if (minStack.isEmpty() || val <= minStack.get(minStack.size() - 1)) {
-            minStack.add(val);
+        st.push(val);
+        if( minstack.isEmpty()|| minstack.peek()>=val){
+            minstack.push(val);
         }
+       // if() minstack.push(val);
     }
-
+    
     public void pop() {
-        if (!stack.isEmpty()) {
-            int topVal = stack.remove(stack.size() - 1);
-            if (topVal == minStack.get(minStack.size() - 1)) {
-                minStack.remove(minStack.size() - 1);
+        if(!st.isEmpty()){
+            if(!minstack.isEmpty() && st.peek().equals(minstack.peek())){
+                minstack.pop();
             }
+           st.pop();
         }
     }
-
+    
     public int top() {
-        if (!stack.isEmpty()) {
-            return stack.get(stack.size() - 1);
-        } else {
-            throw new RuntimeException("Stack is empty");
-        }
+        return st.peek();
     }
-
+    
     public int getMin() {
-        if (!minStack.isEmpty()) {
-            return minStack.get(minStack.size() - 1);
-        } else {
-            throw new RuntimeException("Stack is empty");
-        }
+        //if(!minstack.isEmpty()){
+            return minstack.peek();
+        // }
+        // return st.peek();
     }
 }
 

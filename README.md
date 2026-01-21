@@ -354,6 +354,7 @@ this is my first repository.
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2402-meeting-rooms-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -1101,6 +1102,7 @@ this is my first repository.
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2683-neighboring-bitwise-xor](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2683-neighboring-bitwise-xor) |
 | [3133-minimum-array-end](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3133-minimum-array-end) |
 ## Number Theory
@@ -1581,6 +1583,7 @@ this is my first repository.
 ## Brainteaser
 |  |
 | ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Randomized
 |  |

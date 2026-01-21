@@ -359,6 +359,7 @@ this is my first repository.
 | [2540-minimum-common-value](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2683-neighboring-bitwise-xor](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2683-neighboring-bitwise-xor) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -1097,6 +1098,7 @@ this is my first repository.
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2683-neighboring-bitwise-xor](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2683-neighboring-bitwise-xor) |
 | [3133-minimum-array-end](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3133-minimum-array-end) |
 ## Number Theory
 |  |

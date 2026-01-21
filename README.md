@@ -338,6 +338,7 @@ this is my first repository.
 | [1791-richest-customer-wealth](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -825,6 +826,7 @@ this is my first repository.
 | [1636-number-of-substrings-with-only-1s](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2050-count-good-numbers) |
@@ -1097,6 +1099,7 @@ this is my first repository.
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2683-neighboring-bitwise-xor](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2683-neighboring-bitwise-xor) |
 | [3133-minimum-array-end](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3133-minimum-array-end) |

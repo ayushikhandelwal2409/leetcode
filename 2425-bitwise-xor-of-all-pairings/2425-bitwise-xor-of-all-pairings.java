@@ -7,10 +7,10 @@ class Solution {
         if(n%2==0 && m%2==0){
             return 0;
         }
-        else if(n%2==1 && m%2==0){
+        else if(n%2==1 && m%2==0){ //3,4 =>even ka xor is answer
             return xor2;
         }
-         else if(n%2==0 && m%2==1){
+         else if(n%2==0 && m%2==1){//4,3 =>even ka xor is answer
             return xor1;
         }
         else{

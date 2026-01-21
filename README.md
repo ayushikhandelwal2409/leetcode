@@ -774,6 +774,7 @@ this is my first repository.
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2429-minimize-xor](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2429-minimize-xor) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1103,6 +1104,7 @@ this is my first repository.
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2429-minimize-xor](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2429-minimize-xor) |
 | [2683-neighboring-bitwise-xor](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2683-neighboring-bitwise-xor) |
 | [3133-minimum-array-end](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3133-minimum-array-end) |
 ## Number Theory

@@ -1409,6 +1409,7 @@ this is my first repository.
 | [0844-backspace-string-compare](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0844-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0883-car-fleet) |
 | [0886-score-of-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0886-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0901-online-stock-span) |
 | [0933-increasing-order-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -1440,6 +1441,7 @@ this is my first repository.
 | [0654-maximum-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0883-car-fleet) |
+| [0901-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0937-online-stock-span) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1450,6 +1452,7 @@ this is my first repository.
 | [0173-binary-search-tree-iterator](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0901-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0937-online-stock-span) |
 ## Iterator
 |  |
@@ -1573,6 +1576,7 @@ this is my first repository.
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0937-online-stock-span) |
 ## Bitmask
 |  |

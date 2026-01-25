@@ -649,6 +649,7 @@ this is my first repository.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -774,6 +775,7 @@ this is my first repository.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1829-maximum-units-on-a-truck](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -1423,6 +1425,7 @@ this is my first repository.
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1666-make-the-string-great](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1666-make-the-string-great) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1449,6 +1452,7 @@ this is my first repository.
 | [0883-car-fleet](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0883-car-fleet) |
 | [0901-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0937-online-stock-span) |
+| [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design

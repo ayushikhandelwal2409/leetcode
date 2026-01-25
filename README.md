@@ -471,6 +471,7 @@ this is my first repository.
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3412-find-mirror-score-of-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3531-count-covered-buildings) |
@@ -654,6 +655,7 @@ this is my first repository.
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3396-valid-word](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3396-valid-word) |
+| [3412-find-mirror-score-of-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3451-string-compression-iii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1072,6 +1074,7 @@ this is my first repository.
 | [2288-count-operations-to-obtain-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [3412-find-mirror-score-of-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Queue
@@ -1428,6 +1431,7 @@ this is my first repository.
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3412-find-mirror-score-of-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Enumeration
 |  |

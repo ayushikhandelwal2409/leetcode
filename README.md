@@ -374,6 +374,7 @@ this is my first repository.
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -1093,6 +1094,7 @@ this is my first repository.
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1126,6 +1128,7 @@ this is my first repository.
 | [2429-minimize-xor](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2429-minimize-xor) |
 | [2683-neighboring-bitwise-xor](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2683-neighboring-bitwise-xor) |
 | [3133-minimum-array-end](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3133-minimum-array-end) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -1169,6 +1172,7 @@ this is my first repository.
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2751-sliding-subarray-beauty](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2751-sliding-subarray-beauty) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1198,6 +1202,7 @@ this is my first repository.
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |

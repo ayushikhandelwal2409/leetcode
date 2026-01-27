@@ -346,6 +346,7 @@ this is my first repository.
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -1075,6 +1076,7 @@ this is my first repository.
 | [0861-flipping-an-image](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0861-flipping-an-image) |
 | [1386-shift-2d-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1386-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -1089,6 +1091,7 @@ this is my first repository.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
 |  |

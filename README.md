@@ -137,6 +137,7 @@ this is my first repository.
 | [0883-car-fleet](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0948-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -305,6 +306,7 @@ this is my first repository.
 | [0917-boats-to-save-people](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0948-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -1075,6 +1077,7 @@ this is my first repository.
 | [0735-asteroid-collision](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0861-flipping-an-image) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1386-shift-2d-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1386-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -1090,6 +1093,7 @@ this is my first repository.
 | [0232-implement-queue-using-stacks](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2073-time-needed-to-buy-tickets) |

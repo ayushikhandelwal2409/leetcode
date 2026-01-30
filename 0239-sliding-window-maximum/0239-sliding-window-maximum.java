@@ -1,58 +1,19 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        int l=nums.length;
-        int[] ans=new int[l-k+1];
-        if(k==1){
-            return nums;
-        }
-        int max=Integer.MIN_VALUE;
-        int ind=0;
+        int n=nums.length;
+        int[] ans=new int[n-k+1];
+        PriorityQueue<int[]>  pq=new PriorityQueue<>((a,b)->b[1]-a[1]);//idx,val;
         for(int i=0;i<k;i++){
-            int n=nums[i];
-            if(n>=max){
-                ind =i;
-                max=n;
-            }
+            pq.add(new int[]{i,nums[i]});
         }
-        ans[0]=max;
-        int end=0;
-        for(int i=1;i<ans.length;i++)
-        {
-            end=i+k-1;
-            if(i<=ind)
-            {
-                if(nums[end]>=max)
-                {
-                    max=nums[end];
-                    ind=end;
-                }
+        ans[0]=pq.peek()[1];
+        int j=1;
+        for(int i=k;i<n;i++){
+            pq.add(new int[]{i,nums[i]});
+            while(!pq.isEmpty() && pq.peek()[0]<=i-k){
+                pq.poll();
             }
-            else
-            {
-                if(nums[end]>=max)
-                {
-                    max=nums[end];
-                    ind=end;
-                }
-                else if(nums[i]>=max-1)
-                {
-                    max=nums[i];
-                    ind=i;
-                }
-                else
-                {
-                    max=Integer.MIN_VALUE;
-                    for(int j=i;j<=end;j++)
-                    {
-                        if(nums[j]>=max)
-                        {
-                            max=nums[j];
-                            ind=j;
-                        }
-                    }
-                }
-            }
-            ans[i]=max;
+            ans[j++]=pq.peek()[1];
         }
         return ans;
     }

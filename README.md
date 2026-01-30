@@ -337,6 +337,7 @@ this is my first repository.
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1696-jump-game-vi](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1696-jump-game-vi) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -568,6 +569,7 @@ this is my first repository.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0948-sort-an-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1696-jump-game-vi](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1696-jump-game-vi) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2402-meeting-rooms-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -741,6 +743,7 @@ this is my first repository.
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1696-jump-game-vi](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1696-jump-game-vi) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1096,6 +1099,7 @@ this is my first repository.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1696-jump-game-vi](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1696-jump-game-vi) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1106,6 +1110,7 @@ this is my first repository.
 | [0239-sliding-window-maximum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1696-jump-game-vi](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1696-jump-game-vi) |
 ## Bit Manipulation
 |  |
 | ------- |

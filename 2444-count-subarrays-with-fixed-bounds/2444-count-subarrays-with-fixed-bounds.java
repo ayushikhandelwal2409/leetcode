@@ -9,12 +9,14 @@ class Solution {
         while(i<n){
             if (nums[i] < minK || nums[i] > maxK) {
                 start = i;
+                mink=-1;
+                maxk=-1;
             }
             if (nums[i] == minK) mink = i;
             if (nums[i] == maxK) maxk = i;
             
             int valid=Math.min(mink,maxk)-start;
-            if(valid>0){
+            if(mink!=-1 && maxk!=-1){
                 ans+=valid;
             }
             i++;

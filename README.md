@@ -141,6 +141,7 @@ this is my first repository.
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -325,6 +326,7 @@ this is my first repository.
 | [1191-k-concatenation-maximum-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-path-with-maximum-gold](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -540,6 +542,7 @@ this is my first repository.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -739,6 +742,7 @@ this is my first repository.
 | [1105-uncrossed-lines](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1105-uncrossed-lines) |
 | [1191-k-concatenation-maximum-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1250-longest-common-subsequence](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |

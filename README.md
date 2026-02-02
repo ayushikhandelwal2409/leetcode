@@ -29,6 +29,7 @@ this is my first repository.
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -862,6 +863,7 @@ this is my first repository.
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1463,6 +1465,7 @@ this is my first repository.
 | [1666-make-the-string-great](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1666-make-the-string-great) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3412-find-mirror-score-of-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |

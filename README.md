@@ -27,6 +27,7 @@ this is my first repository.
 | [0234-palindrome-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -316,6 +317,7 @@ this is my first repository.
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1022-unique-paths-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1458,6 +1460,7 @@ this is my first repository.
 | [0901-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0901-online-stock-span) |
 | [0933-increasing-order-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0937-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1492,6 +1495,7 @@ this is my first repository.
 | [0883-car-fleet](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0883-car-fleet) |
 | [0901-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0937-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |

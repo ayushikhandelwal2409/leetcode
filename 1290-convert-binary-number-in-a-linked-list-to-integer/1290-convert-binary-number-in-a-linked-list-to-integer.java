@@ -10,21 +10,10 @@
  */
 class Solution {
     public int getDecimalValue(ListNode head) {
-        StringBuilder sb=new StringBuilder();
-        int c=0;
-        while(head!=null){
-            sb.append(head.val);
-            head=head.next;
-            c++;
-        }
         int ans=0;
-        int i=0;
-        c--;
-        System.out.println(c);
-        while(c>=0){
-            ans+=((int)(sb.charAt(i)-'0')*Math.pow(2,c));
-            i++;
-            c--;
+        while(head!=null){
+            ans=ans*2+head.val;
+            head=head.next;
         }
         return ans;
     }

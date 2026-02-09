@@ -958,6 +958,7 @@ this is my first repository.
 | [1493-frog-position-after-t-seconds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1731-even-odd-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1040,6 +1041,7 @@ this is my first repository.
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1731-even-odd-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Matrix
 |  |
@@ -1297,6 +1299,7 @@ this is my first repository.
 | [1731-even-odd-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3863-power-grid-maintenance) |
@@ -1382,6 +1385,7 @@ this is my first repository.
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3863-power-grid-maintenance) |

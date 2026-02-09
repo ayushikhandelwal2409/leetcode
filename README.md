@@ -371,6 +371,7 @@ this is my first repository.
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2540-minimum-common-value](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -958,6 +959,7 @@ this is my first repository.
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1731-even-odd-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
 |  |
@@ -1038,6 +1040,7 @@ this is my first repository.
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1731-even-odd-tree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Matrix
 |  |
 | ------- |

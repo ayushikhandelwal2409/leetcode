@@ -953,6 +953,7 @@ this is my first repository.
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1493-frog-position-after-t-seconds) |
@@ -1037,6 +1038,7 @@ this is my first repository.
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -1378,6 +1380,7 @@ this is my first repository.
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1493-frog-position-after-t-seconds) |

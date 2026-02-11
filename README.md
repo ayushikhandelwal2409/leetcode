@@ -257,6 +257,7 @@ this is my first repository.
 | [0414-third-maximum-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -445,6 +446,7 @@ this is my first repository.
 | [0349-intersection-of-two-arrays](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0409-longest-palindrome) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -1147,6 +1149,7 @@ this is my first repository.
 | [0338-counting-bits](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0397-integer-replacement) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0526-beautiful-arrangement](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0861-flipping-an-image) |
@@ -1437,6 +1440,7 @@ this is my first repository.
 | [0139-word-break](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Interactive
 |  |
 | ------- |

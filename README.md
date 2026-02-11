@@ -80,6 +80,7 @@ this is my first repository.
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2540-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -869,6 +870,7 @@ this is my first repository.
 | [2050-count-good-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2050-count-good-numbers) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2396-strictly-palindromic-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1661,6 +1663,7 @@ this is my first repository.
 ## Brainteaser
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ayushikhandelwal2409/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Randomized

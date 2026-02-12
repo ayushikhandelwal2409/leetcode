@@ -347,6 +347,7 @@ this is my first repository.
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1696-jump-game-vi](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1696-jump-game-vi) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -1158,6 +1159,7 @@ this is my first repository.
 | [1022-unique-paths-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1022-unique-paths-iii) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -1443,6 +1445,7 @@ this is my first repository.
 | [0208-implement-trie-prefix-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Interactive
 |  |
 | ------- |

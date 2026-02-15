@@ -355,6 +355,7 @@ this is my first repository.
 | [1829-maximum-units-on-a-truck](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1972-rotating-the-box](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -482,6 +483,7 @@ this is my first repository.
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2402-meeting-rooms-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2540-minimum-common-value) |
@@ -964,6 +966,7 @@ this is my first repository.
 | [1493-frog-position-after-t-seconds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1731-even-odd-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
@@ -985,6 +988,7 @@ this is my first repository.
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1048,6 +1052,7 @@ this is my first repository.
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1731-even-odd-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Matrix
@@ -1393,6 +1398,7 @@ this is my first repository.
 | [1493-frog-position-after-t-seconds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |

@@ -67,6 +67,7 @@ this is my first repository.
 | [0567-permutation-in-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0838-push-dominoes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0838-push-dominoes) |
@@ -656,6 +657,7 @@ this is my first repository.
 | [0647-palindromic-substrings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0696-count-binary-substrings) |
 | [0726-number-of-atoms](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0800-letter-case-permutation) |

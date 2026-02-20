@@ -103,6 +103,7 @@ this is my first repository.
 | [0654-maximum-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -803,6 +804,7 @@ this is my first repository.
 | [0917-boats-to-save-people](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1382-balance-a-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1448-maximum-69-number) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -968,6 +970,7 @@ this is my first repository.
 | [1254-deepest-leaves-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1493-frog-position-after-t-seconds) |
@@ -994,6 +997,7 @@ this is my first repository.
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -1057,6 +1061,7 @@ this is my first repository.
 | [1254-deepest-leaves-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -1405,6 +1410,7 @@ this is my first repository.
 | [1254-deepest-leaves-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1493-frog-position-after-t-seconds) |

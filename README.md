@@ -963,6 +963,7 @@ this is my first repository.
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -1054,6 +1055,7 @@ this is my first repository.
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -1402,6 +1404,7 @@ this is my first repository.
 | [0988-flip-equivalent-binary-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |

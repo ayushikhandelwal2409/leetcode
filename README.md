@@ -1325,6 +1325,7 @@ this is my first repository.
 | [1073-number-of-enclaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1462-course-schedule-iv](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1462-course-schedule-iv) |
 | [1493-frog-position-after-t-seconds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1731-even-odd-tree) |
@@ -1415,6 +1416,7 @@ this is my first repository.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1462-course-schedule-iv](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1462-course-schedule-iv) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -1617,6 +1619,7 @@ this is my first repository.
 | [0310-minimum-height-trees](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1462-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
@@ -1702,4 +1705,8 @@ this is my first repository.
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0528-random-pick-with-weight) |
+## Graph Theory
+|  |
+| ------- |
+| [1462-course-schedule-iv](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1462-course-schedule-iv) |
 <!---LeetCode Topics End-->

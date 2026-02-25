@@ -1,6 +1,6 @@
 class Solution {
     public String removeDuplicateLetters(String s) {
-        HashMap<Character,Integer> map=new HashMap<>();
+        HashMap<Character,Integer> map=new HashMap<>();//frequency map  represents how many occurrences are left in the future part of the string.
         char[] arr=s.toCharArray();
         for(char ch:arr){
             map.put(ch,map.getOrDefault(ch,0)+1);

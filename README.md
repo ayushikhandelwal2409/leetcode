@@ -677,6 +677,7 @@ this is my first repository.
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1666-make-the-string-great](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1666-make-the-string-great) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -907,6 +908,7 @@ this is my first repository.
 | [0394-decode-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2050-count-good-numbers) |
 ## Tree
@@ -1132,6 +1134,7 @@ this is my first repository.
 | [0861-flipping-an-image](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0861-flipping-an-image) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1386-shift-2d-grid](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1386-shift-2d-grid) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ayushikhandelwal2409/leetcode/tree/master/2288-count-operations-to-obtain-zero) |

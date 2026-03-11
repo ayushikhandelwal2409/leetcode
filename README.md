@@ -331,6 +331,7 @@ this is my first repository.
 | [1046-max-consecutive-ones-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1073-number-of-enclaves) |
 | [1105-uncrossed-lines](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1105-uncrossed-lines) |
+| [1162-as-far-from-land-as-possible](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1191-k-concatenation-maximum-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -768,6 +769,7 @@ this is my first repository.
 | [1013-fibonacci-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1105-uncrossed-lines](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1105-uncrossed-lines) |
+| [1162-as-far-from-land-as-possible](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1191-k-concatenation-maximum-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -1112,6 +1114,7 @@ this is my first repository.
 | [1022-unique-paths-iii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1073-number-of-enclaves) |
+| [1162-as-far-from-land-as-possible](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -1335,6 +1338,7 @@ this is my first repository.
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1073-number-of-enclaves) |
+| [1162-as-far-from-land-as-possible](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1462-course-schedule-iv](https://github.com/ayushikhandelwal2409/leetcode/tree/master/1462-course-schedule-iv) |

@@ -859,6 +859,7 @@ this is my first repository.
 | [0062-unique-paths](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/ayushikhandelwal2409/leetcode/tree/master/0231-power-of-two) |
